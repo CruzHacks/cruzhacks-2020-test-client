@@ -1,2 +1,1 @@
-# cruzhacks-2020-test-client
-React test client for CruzHacks serverless microservices
+https://github.com/auth0-samples/auth0-react-samples/tree/master/01-Login
